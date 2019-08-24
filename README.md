@@ -12,10 +12,10 @@
 
 | # | Title          | Solution | Difficulty | Date     |
 | :---: | :------------: | :------: | :----: | :------: |
-| 1330  | 두 수 비교하기   | java     | easy  | 19/08/22 |
-| 2438  | 별찍기          | java     | easy  | 19/08/22 |
-| 2739  | 구구단          | java     | easy  | 19/08/22 |
-| 2750  | 수 정렬하기     | java     | easy  | 19/08/22 |
+| 1330  | [두 수 비교하기](https://github.com/mand2/Daily-Algorithm/blob/master/Baekjoon/1330.java) | java     | easy  | 19/08/22 |
+| 2438  | [별찍기](https://github.com/mand2/Daily-Algorithm/blob/master/Baekjoon/2438.java) | java     | easy  | 19/08/22 |
+| 2739  | [구구단](https://github.com/mand2/Daily-Algorithm/blob/master/Baekjoon/2739.java) | java     | easy  | 19/08/22 |
+| 2750  | [수 정렬하기](https://github.com/mand2/Daily-Algorithm/blob/master/Baekjoon/2750.java) | java     | easy  | 19/08/22 |
 | 10950 | [A+B - 3](https://github.com/mand2/Daily-Algorithm/blob/master/Baekjoon/10950.java) | java     | easy  | 19/08/23 |
-| 2884  | 알람 시계 | java     | easy  | 19/08/24 |
+| 2884  | [알람 시계](https://github.com/mand2/Daily-Algorithm/blob/master/Baekjoon/2884.java) | java     | easy  | 19/08/24 |
 
