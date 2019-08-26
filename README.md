@@ -19,4 +19,5 @@
 | 10950 | [A+B - 3](https://github.com/mand2/Daily-Algorithm/blob/master/Baekjoon/10950.java) | java     | easy  | 19/08/23 |
 | 2884  | [알람 시계](https://github.com/mand2/Daily-Algorithm/blob/master/Baekjoon/2884.java) | java     | easy  | 19/08/24 |
 | 10871 | [X보다 작은 수](https://github.com/mand2/Daily-Algorithm/blob/master/Baekjoon/10871.java) | java | easy | 19/08/25 |
+| 10951 | [A+B - 4](https://github.com/mand2/Daily-Algorithm/blob/master/Baekjoon/10951.java) | java | easy | 19/08/27 |
 
