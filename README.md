@@ -35,4 +35,7 @@
 | SQL 5 | [최솟값 구하기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_5_6.md) | MySQL | Level 2 | 19/09/04 |
 | SQL 6 | [이름이 없는 동물의 아이디](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_5_6.md) | MySQL | Level 1 | 19/09/04 |
 | SQL 7 | [고양이와 개는 몇 마리 있을까](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_7_8.md) | MySQL | Level 2 | 19/09/05 |
-| SQL 8 | [동명 동물 수 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_7_8.md) | MySQL | Level 2 | 19/09/05 |
+| SQL 8 | [없어진 기록 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_7_8.md) | MySQL | Level 2 | 19/09/05 |
+| SQL 9 | [동명 동물 수 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_9_10.md) | MySQL | Level 3 | 19/09/06 |
+| SQL 10 | [있었는데요 없었습니다](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_9_10.md) | MySQL | Level 3 | 19/09/06 |
+
