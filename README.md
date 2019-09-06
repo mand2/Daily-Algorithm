@@ -38,4 +38,5 @@
 | SQL 8 | [없어진 기록 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_7_8.md) | MySQL | Level 2 | 19/09/05 |
 | SQL 9 | [동명 동물 수 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_9_10.md) | MySQL | Level 3 | 19/09/06 |
 | SQL 10 | [있었는데요 없었습니다](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_9_10.md) | MySQL | Level 3 | 19/09/06 |
+| JAVA 1 | [124 나라의 숫자](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/JAVA01.md) | JAVA | Level 2 | 19/09/06 |
 
