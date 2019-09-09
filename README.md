@@ -24,7 +24,7 @@
 
 <br><br>
 
-## Programmers
+## Programmers : SQL
 
 | # | Title          | Solution | Difficulty | Date     |
 | :---: | :------------: | :------: | :----: | :------: |
@@ -38,9 +38,15 @@
 | SQL 8 | [없어진 기록 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_7_8.md) | MySQL | Level 2 | 19/09/05 |
 | SQL 9 | [동명 동물 수 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_9_10.md) | MySQL | Level 3 | 19/09/06 |
 | SQL 10 | [있었는데요 없었습니다](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_9_10.md) | MySQL | Level 3 | 19/09/06 |
-| JAVA 1 | [124 나라의 숫자](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/JAVA01.md) | JAVA | Level 2 | 19/09/06 |
 | SQL 11 | [오랜 기간 보호한 동물(1)](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_11_12.md) | MySQL | Level 3 | 19/09/07 |
 | SQL 12 | [보호소에서 중성화한 동물](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_11_12.md) | MySQL | Level 4 | 19/09/07 |
 | SQL 13 | [루시와 엘라 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_13_14.md) | MySQL | Level 2 | 19/09/08 |
 | SQL 14 | [이름에 el이 들어가는 동물 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_13_14.md) | MySQL | Level 2 | 19/09/08 |
 
+<br><br>
+
+### Programmers : JAVA
+| # | Title          | Solution | Difficulty | Date     |
+| :---: | :------------: | :------: | :----: | :------: |
+| JAVA 1 | [124 나라의 숫자](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/JAVA01.md) |   JAVA   |  Level 2   | 19/09/06 |
+| JAVA 2 | [주식가격](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/stockprice.java) | JAVA | Level 2 | 19/09/09 |
