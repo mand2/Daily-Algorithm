@@ -50,3 +50,4 @@
 | :---: | :------------: | :------: | :----: | :------: |
 | JAVA 1 | [124 나라의 숫자](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/JAVA01.md) |   JAVA   |  Level 2   | 19/09/06 |
 | JAVA 2 | [주식가격](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/stockprice.java) | JAVA | Level 2 | 19/09/09 |
+| JAVA 3 | [다리를 지나는 트럭](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/다리를지나는트럭.md) | JAVA | Level 2 | 19/10/07 |
