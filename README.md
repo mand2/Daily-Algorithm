@@ -24,6 +24,17 @@
 
 <br><br>
 
+### Programmers : JAVA
+| # | Title          | Solution | Difficulty | Date     |
+| :---: | :------------: | :------: | :----: | :------: |
+| JAVA 1 | [124 나라의 숫자](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/JAVA01.md) |   JAVA   |  Level 2   | 19/09/06 |
+| JAVA 2 | [주식가격](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/stockprice.java) | JAVA | Level 2 | 19/09/09 |
+| JAVA 3 | [다리를 지나는 트럭](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/다리를지나는트럭.md) | JAVA | Level 2 | 19/10/07 |
+| JAVA 4 | [쇠막대기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/쇠막대기.md) | JAVA | Level 2 | 19/10/07 |
+| JAVA 5 | [탑](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/탑.md) | JAVA | Level 2 | 19/10/07 |
+
+<br><br>
+
 ## Programmers : SQL
 
 | # | Title          | Solution | Difficulty | Date     |
@@ -44,11 +55,3 @@
 | SQL 14 | [이름에 el이 들어가는 동물 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_13_14.md) | MySQL | Level 2 | 19/09/08 |
 
 <br><br>
-
-### Programmers : JAVA
-| # | Title          | Solution | Difficulty | Date     |
-| :---: | :------------: | :------: | :----: | :------: |
-| JAVA 1 | [124 나라의 숫자](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/JAVA01.md) |   JAVA   |  Level 2   | 19/09/06 |
-| JAVA 2 | [주식가격](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/stockprice.java) | JAVA | Level 2 | 19/09/09 |
-| JAVA 3 | [다리를 지나는 트럭](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/다리를지나는트럭.md) | JAVA | Level 2 | 19/10/07 |
-| JAVA 4 | [쇠막대기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/쇠막대기.md) | JAVA | Level 2 | 19/10/07 |
