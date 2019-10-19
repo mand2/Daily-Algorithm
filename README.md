@@ -39,6 +39,7 @@
 | JAVA 10 | [구명 보트](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/구명보트.md) | JAVA | Level 2 | 19/10/16 |
 | JAVA 11 | [스킬트리](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/스킬트리.md) | JAVA | Level 2 | 19/10/16 |
 | JAVA 12 | [조이스틱](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/조이스틱.md) | JAVA | Level 2 | 19/10/17 |
+| JAVA 13 | [소수찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/소수찾기.md) | JAVA | Level 2 | 19/10/19 |
 
 <br><br>
 
