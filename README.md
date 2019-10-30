@@ -43,7 +43,7 @@
 | JAVA 13 | [소수찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/소수찾기.md) | JAVA | Level 2 | 19/10/19 |
 | JAVA 14 | [카펫](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/카펫.md) | JAVA | Level 2 | 19/10/20 |
 | JAVA 15 | [모의고사](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/모의고사.md) | JAVA | Level 1 | 19/10/27 |
-
+| JAVA 16 | [같은숫자는싫어](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/같은숫자는싫어.md) | JAVA | Level 1 | 19/10/30 |
 
 <br><br>
 
