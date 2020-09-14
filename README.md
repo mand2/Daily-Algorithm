@@ -58,6 +58,7 @@
 | PYTHON 5 | [같은숫자는싫어](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/같은숫자는싫어_py.md) |   PYTHON   |  Level 1   | 20/09/10 |
 | PYTHON 6 | [크레인 인형뽑기 게임](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/크레인인형뽑기게임_py.md) |   PYTHON   |  Level 1   | 20/09/11 |
 | PYTHON 7 | [2016년](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/2016년_py.md) |   PYTHON   |  Level 1   | 20/09/11 |
+| PYTHON 8 | [두개뽑아서더하기:월간코드챌린지](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/두개뽑아서더하기_py.md) |   PYTHON   |  Level 1   | 20/09/14 |
 
 <br><br>
 
