@@ -82,4 +82,13 @@
 | SQL 13 | [루시와 엘라 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_13_14.md) | MySQL | Level 2 | 19/09/08 |
 | SQL 14 | [이름에 el이 들어가는 동물 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_13_14.md) | MySQL | Level 2 | 19/09/08 |
 
+| SQL 15 | [최대값 구하기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_15_16.md) | MySQL | Level 1 | 20/09/22 |
+| SQL 16 | [동물의 아이디와 이름](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_15_16.md) | MySQL | Level 1 | 20/09/22 |
+| SQL 17 | [이름이 있는 동물의 아이디](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_17_18.md) | MySQL | Level 1 | 20/09/22 |
+| SQL 18 | [여러 기준으로 정렬하기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_17_18.md) | MySQL | Level 1 | 20/09/22 |
+| SQL 19 | [상위 n개 레코드](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_19_20.md) | MySQL | Level 1 | 20/09/22 |
+| SQL 20 | [동물의 수 구하기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_19_20.md) | MySQL | Level 2 | 20/09/22 |
+| SQL 21 | [중복 제거하기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_21_22.md) | MySQL | Level 2 | 20/09/22 |
+| SQL 22 | [NULL 처리하기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_21_22.md) | MySQL | Level 2 | 20/09/22 |
+
 <br><br>
