@@ -81,7 +81,6 @@
 | SQL 12 | [보호소에서 중성화한 동물](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_11_12.md) | MySQL | Level 4 | 19/09/07 |
 | SQL 13 | [루시와 엘라 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_13_14.md) | MySQL | Level 2 | 19/09/08 |
 | SQL 14 | [이름에 el이 들어가는 동물 찾기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_13_14.md) | MySQL | Level 2 | 19/09/08 |
-
 | SQL 15 | [최대값 구하기](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_15_16.md) | MySQL | Level 1 | 20/09/22 |
 | SQL 16 | [동물의 아이디와 이름](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_15_16.md) | MySQL | Level 1 | 20/09/22 |
 | SQL 17 | [이름이 있는 동물의 아이디](https://github.com/mand2/Daily-Algorithm/blob/master/Programmers/SQL_17_18.md) | MySQL | Level 1 | 20/09/22 |
